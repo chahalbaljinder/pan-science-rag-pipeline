@@ -1,4 +1,4 @@
-# 🔍 RAG Pipeline API - Production Ready
+# 🔍 OmniRAG - RAG Pipeline API (Production Ready)
 
 A comprehensive Retrieval-Augmented Generation (RAG) pipeline that allows users to upload documents and ask questions based on their content. Built with FastAPI, FAISS vector database, and Google Gemini 2.0 Flash LLM. **96.2% test coverage** and production-ready deployment.
 
